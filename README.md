@@ -21,4 +21,4 @@ After downloading, put the files here:
 - data/raw/True.csv
 
 ### 3.DownLoad requirements
-- [`requirements.txt](requirements.txt)
+- [requirements.txt](requirements.txt)
