@@ -22,3 +22,4 @@ After downloading, put the files here:
 
 ### 3. DownLoad requirements
 - [requirements.txt](requirements.txt)
+- pip install -r requirements.txt
