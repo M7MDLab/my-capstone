@@ -4,7 +4,7 @@ A machine learning project that detects fake news articles using ML models, Neur
 
 ## 📊 Report
 
-The full project report is in [`report.md`](report.md) — it includes model comparisons, charts, and key findings.
+The full project report is in [`report.md`](report.md) - it includes model comparisons, charts, and key findings.
 
 
 ## ⚙️ Setup
@@ -20,5 +20,5 @@ After downloading, put the files here:
 - data/raw/Fake.csv
 - data/raw/True.csv
 
-### 3.DownLoad requirements
+### 3. DownLoad requirements
 - [requirements.txt](requirements.txt)
